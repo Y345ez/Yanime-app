@@ -24,6 +24,10 @@
 
 <br/>
 
+# Discord 
+join the Discord for any errors 
+https://discord.com/invite/W9UWuTAsYh
+
 # Languages
 
 The languages where both the sub and dub don't work are implemented in the app, but they aren't selectable.
